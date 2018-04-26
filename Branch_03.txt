@@ -1,0 +1,3 @@
+this is a sample text document for the Branch_03
+
+you are comparing Branch_03 with the master branch
