@@ -1,3 +1,5 @@
 # SQA_Assignment_GIT
-this is the README file of Branch_03
-now you are going to compare Branch_03 with the master branch
+
+this is the README file of the Branch_04
+now you are going to compare Branch_04 with the Master branch
+
